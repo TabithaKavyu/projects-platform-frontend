@@ -1,5 +1,5 @@
 # 📖  About She's Coding Projects
-This is the codebase for [She's Coding Projects website](https://projects.shescoding.org/#/). She's Coding Projects is a place for womxn in tech to share and find open-source projects so they can easily connect and collaborate in a safe environment.   
+This is the codebase for [She's Coding Projects website](https://projects.shescoding.org/#/). She's Coding Projects is a place for women in tech to share and find open-source projects so they can easily connect and collaborate in a safe environment.   
 She's Coding Project is part of [She's Coding slack community](https://forms.gle/fivaqJecJwuYbyzS9) with over 1K+ members and [weekly meetups for Data Structures and Algorithms interviews](https://www.meetup.com/shescoding-seattle/) with over 3.7K+ members.
 
 ## 💻 Installation guide
